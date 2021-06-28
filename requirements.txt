@@ -1,0 +1,8 @@
+flask
+validators
+BeautifulSoup
+requests
+pandas
+plotly
+urllib3
+werkzeug
